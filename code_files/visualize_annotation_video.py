@@ -16,8 +16,6 @@ for inddir in dir_list:
 
 
 
-
-
     f = open(jsonPath)
 
     data = json.load(f)
