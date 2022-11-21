@@ -3,13 +3,14 @@ import json
 import numpy as np
 import os
 
-path = 'train_annotations'
+path = '../train_annotations'
 
 dir_list = os.listdir(path)
 
-for inddir in dir_list:
-    
-    videoPath = 'train_videos/'+inddir[0:3]+'/Right.mp4'
+# for inddir in dir_list:
+if(1==1):
+    inddir="737.json"
+    videoPath = '../train_videos/'+inddir[0:3]+'/Right.mp4'
     jsonPath = path+"/"+inddir
 
     cap = cv2.VideoCapture(videoPath)

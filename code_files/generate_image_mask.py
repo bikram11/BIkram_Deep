@@ -18,12 +18,14 @@ path = '../train_annotations'
 
 dir_list = os.listdir(path)
 dir_list.sort()
-for inddir in dir_list:
-    print(inddir[0:3])
-    videoPath = '../train_videos/'+inddir[0:3]+'/Right.mp4'
-    jsonPath = path+"/"+inddir
-    maskedImagePath = '../train_videos/'+inddir[0:3]+"/maskedImages/"
-    rawImagePath = '../train_videos/'+inddir[0:3]+"/rawImages/"
+# for inddir in dir_list:
+if(1==1):
+    # print(inddir[0:3])
+    # videoPath = '../train_videos/'+inddir[0:3]+'/Right.mp4'
+    videoPath = '../train_videos/419/Right.mp4'
+    jsonPath = path+"/"+"419.json"
+    maskedImagePath = '../train_videos/419/maskedImages/'
+    rawImagePath = '../train_videos/419/rawImages/'
     cap = cv2.VideoCapture(videoPath)
 
 

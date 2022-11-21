@@ -1,0 +1,1108 @@
+[{
+    "OwnSpeed": 55.7,
+    "StrDeg": 0.0,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 457.0,
+    "TgtYPos_LeftUp": 92.0,
+    "TgtWidth": 76.0,
+    "TgtHeight": 89.0,
+    "Distance_ref": 31.7541358911
+}, {
+    "OwnSpeed": 55.7,
+    "StrDeg": 0.0,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 455.0,
+    "TgtYPos_LeftUp": 95.0,
+    "TgtWidth": 81.0,
+    "TgtHeight": 86.0,
+    "Distance_ref": 31.9808151659
+}, {
+    "OwnSpeed": 55.7,
+    "StrDeg": 0.1,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 456.0,
+    "TgtYPos_LeftUp": 94.0,
+    "TgtWidth": 79.0,
+    "TgtHeight": 86.0,
+    "Distance_ref": 31.9808151659
+}, {
+    "OwnSpeed": 55.7,
+    "StrDeg": 0.7,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 457.0,
+    "TgtYPos_LeftUp": 92.0,
+    "TgtWidth": 79.0,
+    "TgtHeight": 87.0,
+    "Distance_ref": 32.2107540434
+}, {
+    "OwnSpeed": 55.8,
+    "StrDeg": 1.2,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 459.0,
+    "TgtYPos_LeftUp": 94.0,
+    "TgtWidth": 77.0,
+    "TgtHeight": 84.0,
+    "Distance_ref": 32.2107540434
+}, {
+    "OwnSpeed": 55.9,
+    "StrDeg": 1.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 459.0,
+    "TgtYPos_LeftUp": 92.0,
+    "TgtWidth": 78.0,
+    "TgtHeight": 86.0,
+    "Distance_ref": 32.6806959448
+}, {
+    "OwnSpeed": 55.9,
+    "StrDeg": 1.8,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 459.0,
+    "TgtYPos_LeftUp": 92.0,
+    "TgtWidth": 77.0,
+    "TgtHeight": 83.0,
+    "Distance_ref": 32.6806959448
+}, {
+    "OwnSpeed": 56.0,
+    "StrDeg": 1.8,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 457.0,
+    "TgtYPos_LeftUp": 90.0,
+    "TgtWidth": 80.0,
+    "TgtHeight": 85.0,
+    "Distance_ref": -106.8803867238
+}, {
+    "OwnSpeed": 56.0,
+    "StrDeg": 1.9,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 457.0,
+    "TgtYPos_LeftUp": 92.0,
+    "TgtWidth": 79.0,
+    "TgtHeight": 85.0,
+    "Distance_ref": 33.1645533937
+}, {
+    "OwnSpeed": 56.1,
+    "StrDeg": 1.9,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 456.0,
+    "TgtYPos_LeftUp": 92.0,
+    "TgtWidth": 80.0,
+    "TgtHeight": 86.0,
+    "Distance_ref": 33.1645533937
+}, {
+    "OwnSpeed": 56.1,
+    "StrDeg": 1.9,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 456.0,
+    "TgtYPos_LeftUp": 94.0,
+    "TgtWidth": 79.0,
+    "TgtHeight": 85.0,
+    "Distance_ref": 33.4118950404
+}, {
+    "OwnSpeed": 56.2,
+    "StrDeg": 1.9,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 457.0,
+    "TgtYPos_LeftUp": 92.0,
+    "TgtWidth": 75.0,
+    "TgtHeight": 84.0,
+    "Distance_ref": -106.8803867238
+}, {
+    "OwnSpeed": 56.3,
+    "StrDeg": 2.1,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 456.0,
+    "TgtYPos_LeftUp": 93.0,
+    "TgtWidth": 76.0,
+    "TgtHeight": 84.0,
+    "Distance_ref": 33.9178139872
+}, {
+    "OwnSpeed": 56.3,
+    "StrDeg": 2.1,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 456.0,
+    "TgtYPos_LeftUp": 94.0,
+    "TgtWidth": 75.0,
+    "TgtHeight": 82.0,
+    "Distance_ref": 33.6629537631
+}, {
+    "OwnSpeed": 56.4,
+    "StrDeg": 2.1,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 454.0,
+    "TgtYPos_LeftUp": 91.0,
+    "TgtWidth": 77.0,
+    "TgtHeight": 83.0,
+    "Distance_ref": 33.9178139872
+}, {
+    "OwnSpeed": 56.4,
+    "StrDeg": 2.1,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 452.0,
+    "TgtYPos_LeftUp": 91.0,
+    "TgtWidth": 77.0,
+    "TgtHeight": 81.0,
+    "Distance_ref": 34.1765627142
+}, {
+    "OwnSpeed": 56.5,
+    "StrDeg": 2.1,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 451.0,
+    "TgtYPos_LeftUp": 91.0,
+    "TgtWidth": 76.0,
+    "TgtHeight": 84.0,
+    "Distance_ref": 34.4392896208
+}, {
+    "OwnSpeed": 56.6,
+    "StrDeg": 2.1,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 449.0,
+    "TgtYPos_LeftUp": 91.0,
+    "TgtWidth": 77.0,
+    "TgtHeight": 83.0,
+    "Distance_ref": 34.4392896208
+}, {
+    "OwnSpeed": 56.6,
+    "StrDeg": 2.1,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 448.0,
+    "TgtYPos_LeftUp": 90.0,
+    "TgtWidth": 77.0,
+    "TgtHeight": 82.0,
+    "Distance_ref": 34.7060871626
+}, {
+    "OwnSpeed": 56.7,
+    "StrDeg": 2.1,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 446.0,
+    "TgtYPos_LeftUp": 90.0,
+    "TgtWidth": 78.0,
+    "TgtHeight": 82.0,
+    "Distance_ref": 34.7060871626
+}, {
+    "OwnSpeed": 56.8,
+    "StrDeg": 1.0,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 444.0,
+    "TgtYPos_LeftUp": 91.0,
+    "TgtWidth": 81.0,
+    "TgtHeight": 81.0,
+    "Distance_ref": 34.9770506826
+}, {
+    "OwnSpeed": 56.9,
+    "StrDeg": -0.4,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 444.0,
+    "TgtYPos_LeftUp": 93.0,
+    "TgtWidth": 84.0,
+    "TgtHeight": 79.0,
+    "Distance_ref": 35.2522785247
+}, {
+    "OwnSpeed": 56.9,
+    "StrDeg": -0.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 445.0,
+    "TgtYPos_LeftUp": 93.0,
+    "TgtWidth": 79.0,
+    "TgtHeight": 79.0,
+    "Distance_ref": 35.2522785247
+}, {
+    "OwnSpeed": 57.0,
+    "StrDeg": -0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 447.0,
+    "TgtYPos_LeftUp": 92.0,
+    "TgtWidth": 87.0,
+    "TgtHeight": 79.0,
+    "Distance_ref": 35.5318721528
+}, {
+    "OwnSpeed": 57.0,
+    "StrDeg": -0.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 447.0,
+    "TgtYPos_LeftUp": 92.0,
+    "TgtWidth": 80.0,
+    "TgtHeight": 81.0,
+    "Distance_ref": 35.8159362753
+}, {
+    "OwnSpeed": 57.2,
+    "StrDeg": -0.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 448.0,
+    "TgtYPos_LeftUp": 93.0,
+    "TgtWidth": 77.0,
+    "TgtHeight": 82.0,
+    "Distance_ref": 35.8159362753
+}, {
+    "OwnSpeed": 57.2,
+    "StrDeg": -0.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 449.0,
+    "TgtYPos_LeftUp": 93.0,
+    "TgtWidth": 77.0,
+    "TgtHeight": 80.0,
+    "Distance_ref": 35.8159362753
+}, {
+    "OwnSpeed": 57.2,
+    "StrDeg": -0.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 451.0,
+    "TgtYPos_LeftUp": 93.0,
+    "TgtWidth": 75.0,
+    "TgtHeight": 77.0,
+    "Distance_ref": 36.1045789761
+}, {
+    "OwnSpeed": 57.3,
+    "StrDeg": -0.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 450.0,
+    "TgtYPos_LeftUp": 92.0,
+    "TgtWidth": 80.0,
+    "TgtHeight": 78.0,
+    "Distance_ref": 36.3979118518
+}, {
+    "OwnSpeed": 57.3,
+    "StrDeg": -0.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 450.0,
+    "TgtYPos_LeftUp": 92.0,
+    "TgtWidth": 74.0,
+    "TgtHeight": 76.0,
+    "Distance_ref": 36.3979118518
+}, {
+    "OwnSpeed": 57.4,
+    "StrDeg": -0.4,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 450.0,
+    "TgtYPos_LeftUp": 92.0,
+    "TgtWidth": 78.0,
+    "TgtHeight": 77.0,
+    "Distance_ref": 36.6960501551
+}, {
+    "OwnSpeed": 57.5,
+    "StrDeg": 0.0,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 451.0,
+    "TgtYPos_LeftUp": 94.0,
+    "TgtWidth": 74.0,
+    "TgtHeight": 78.0,
+    "Distance_ref": 36.6960501551
+}, {
+    "OwnSpeed": 57.5,
+    "StrDeg": 0.7,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 450.0,
+    "TgtYPos_LeftUp": 97.0,
+    "TgtWidth": 75.0,
+    "TgtHeight": 77.0,
+    "Distance_ref": 36.6960501551
+}, {
+    "OwnSpeed": 57.5,
+    "StrDeg": 0.8,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 451.0,
+    "TgtYPos_LeftUp": 95.0,
+    "TgtWidth": 75.0,
+    "TgtHeight": 75.0,
+    "Distance_ref": 36.9991129463
+}, {
+    "OwnSpeed": 57.5,
+    "StrDeg": 0.8,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 448.0,
+    "TgtYPos_LeftUp": 93.0,
+    "TgtWidth": 82.0,
+    "TgtHeight": 76.0,
+    "Distance_ref": 37.6205082289
+}, {
+    "OwnSpeed": 57.7,
+    "StrDeg": 0.0,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 449.0,
+    "TgtYPos_LeftUp": 98.0,
+    "TgtWidth": 74.0,
+    "TgtHeight": 73.0,
+    "Distance_ref": 37.6205082289
+}, {
+    "OwnSpeed": 57.7,
+    "StrDeg": -0.7,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 447.0,
+    "TgtYPos_LeftUp": 97.0,
+    "TgtWidth": 77.0,
+    "TgtHeight": 75.0,
+    "Distance_ref": 37.9390993448
+}, {
+    "OwnSpeed": 57.7,
+    "StrDeg": -0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 447.0,
+    "TgtYPos_LeftUp": 96.0,
+    "TgtWidth": 83.0,
+    "TgtHeight": 73.0,
+    "Distance_ref": 38.5927485053
+}, {
+    "OwnSpeed": 57.8,
+    "StrDeg": -0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 447.0,
+    "TgtYPos_LeftUp": 95.0,
+    "TgtWidth": 80.0,
+    "TgtHeight": 73.0,
+    "Distance_ref": 38.5927485053
+}, {
+    "OwnSpeed": 57.8,
+    "StrDeg": -0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 447.0,
+    "TgtYPos_LeftUp": 96.0,
+    "TgtWidth": 79.0,
+    "TgtHeight": 72.0,
+    "Distance_ref": 38.5927485053
+}, {
+    "OwnSpeed": 57.8,
+    "StrDeg": -0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 447.0,
+    "TgtYPos_LeftUp": 95.0,
+    "TgtWidth": 77.0,
+    "TgtHeight": 71.0,
+    "Distance_ref": 38.9280927223
+}, {
+    "OwnSpeed": 57.8,
+    "StrDeg": -0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 446.0,
+    "TgtYPos_LeftUp": 85.0,
+    "TgtWidth": 77.0,
+    "TgtHeight": 71.0,
+    "Distance_ref": 38.9280927223
+}, {
+    "OwnSpeed": 57.8,
+    "StrDeg": -0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 447.0,
+    "TgtYPos_LeftUp": 82.0,
+    "TgtWidth": 111.0,
+    "TgtHeight": 69.0,
+    "Distance_ref": 41.8363216669
+}, {
+    "OwnSpeed": 58.0,
+    "StrDeg": -0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 446.0,
+    "TgtYPos_LeftUp": 112.0,
+    "TgtWidth": 112.0,
+    "TgtHeight": 53.0,
+    "Distance_ref": 41.0692737442
+}, {
+    "OwnSpeed": 58.3,
+    "StrDeg": -0.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 448.0,
+    "TgtYPos_LeftUp": 112.0,
+    "TgtWidth": 108.0,
+    "TgtHeight": 69.0,
+    "Distance_ref": 41.4492493171
+}, {
+    "OwnSpeed": 58.2,
+    "StrDeg": -0.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 445.0,
+    "TgtYPos_LeftUp": 109.0,
+    "TgtWidth": 106.0,
+    "TgtHeight": 57.0,
+    "Distance_ref": 42.6325671094
+}, {
+    "OwnSpeed": 58.0,
+    "StrDeg": -0.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 443.0,
+    "TgtYPos_LeftUp": 96.0,
+    "TgtWidth": 108.0,
+    "TgtHeight": 69.0,
+    "Distance_ref": 42.6325671094
+}, {
+    "OwnSpeed": 58.0,
+    "StrDeg": -0.4,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 444.0,
+    "TgtYPos_LeftUp": 98.0,
+    "TgtWidth": 103.0,
+    "TgtHeight": 66.0,
+    "Distance_ref": 42.2306914869
+}, {
+    "OwnSpeed": 58.2,
+    "StrDeg": -0.4,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 446.0,
+    "TgtYPos_LeftUp": 105.0,
+    "TgtWidth": 102.0,
+    "TgtHeight": 66.0,
+    "Distance_ref": 42.6325671094
+}, {
+    "OwnSpeed": 58.3,
+    "StrDeg": -0.4,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 442.0,
+    "TgtYPos_LeftUp": 105.0,
+    "TgtWidth": 106.0,
+    "TgtHeight": 71.0,
+    "Distance_ref": 42.6325671094
+}, {
+    "OwnSpeed": 58.2,
+    "StrDeg": -0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 446.0,
+    "TgtYPos_LeftUp": 95.0,
+    "TgtWidth": 103.0,
+    "TgtHeight": 70.0,
+    "Distance_ref": 42.6325671094
+}, {
+    "OwnSpeed": 58.2,
+    "StrDeg": -0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 447.0,
+    "TgtYPos_LeftUp": 92.0,
+    "TgtWidth": 98.0,
+    "TgtHeight": 68.0,
+    "Distance_ref": 42.6325671094
+}, {
+    "OwnSpeed": 58.3,
+    "StrDeg": -0.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 448.0,
+    "TgtYPos_LeftUp": 94.0,
+    "TgtWidth": 99.0,
+    "TgtHeight": 75.0,
+    "Distance_ref": 42.6325671094
+}, {
+    "OwnSpeed": 58.4,
+    "StrDeg": -0.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 452.0,
+    "TgtYPos_LeftUp": 101.0,
+    "TgtWidth": 93.0,
+    "TgtHeight": 66.0,
+    "Distance_ref": -106.8803867238
+}, {
+    "OwnSpeed": 58.4,
+    "StrDeg": -0.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 453.0,
+    "TgtYPos_LeftUp": 98.0,
+    "TgtWidth": 88.0,
+    "TgtHeight": 67.0,
+    "Distance_ref": 41.4492493171
+}, {
+    "OwnSpeed": 58.5,
+    "StrDeg": -0.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 453.0,
+    "TgtYPos_LeftUp": 94.0,
+    "TgtWidth": 88.0,
+    "TgtHeight": 70.0,
+    "Distance_ref": 41.8363216669
+}, {
+    "OwnSpeed": 58.6,
+    "StrDeg": -0.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 456.0,
+    "TgtYPos_LeftUp": 103.0,
+    "TgtWidth": 85.0,
+    "TgtHeight": 70.0,
+    "Distance_ref": 42.2306914869
+}, {
+    "OwnSpeed": 58.7,
+    "StrDeg": -0.2,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 458.0,
+    "TgtYPos_LeftUp": 107.0,
+    "TgtWidth": 83.0,
+    "TgtHeight": 69.0,
+    "Distance_ref": 43.4597095122
+}, {
+    "OwnSpeed": 58.6,
+    "StrDeg": -0.2,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 457.0,
+    "TgtYPos_LeftUp": 96.0,
+    "TgtWidth": 83.0,
+    "TgtHeight": 71.0,
+    "Distance_ref": 42.6325671094
+}, {
+    "OwnSpeed": 58.6,
+    "StrDeg": 0.0,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 457.0,
+    "TgtYPos_LeftUp": 97.0,
+    "TgtWidth": 83.0,
+    "TgtHeight": 69.0,
+    "Distance_ref": 43.4597095122
+}, {
+    "OwnSpeed": 58.7,
+    "StrDeg": 0.4,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 457.0,
+    "TgtYPos_LeftUp": 99.0,
+    "TgtWidth": 83.0,
+    "TgtHeight": 72.0,
+    "Distance_ref": 44.7624067403
+}, {
+    "OwnSpeed": 58.8,
+    "StrDeg": 0.7,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 457.0,
+    "TgtYPos_LeftUp": 98.0,
+    "TgtWidth": 84.0,
+    "TgtHeight": 71.0,
+    "Distance_ref": 43.8854345653
+}, {
+    "OwnSpeed": 58.8,
+    "StrDeg": 0.8,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 457.0,
+    "TgtYPos_LeftUp": 97.0,
+    "TgtWidth": 83.0,
+    "TgtHeight": 73.0,
+    "Distance_ref": 43.8854345653
+}, {
+    "OwnSpeed": 58.9,
+    "StrDeg": 0.8,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 457.0,
+    "TgtYPos_LeftUp": 98.0,
+    "TgtWidth": 83.0,
+    "TgtHeight": 72.0,
+    "Distance_ref": 43.8854345653
+}, {
+    "OwnSpeed": 58.9,
+    "StrDeg": 0.8,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 457.0,
+    "TgtYPos_LeftUp": 95.0,
+    "TgtWidth": 83.0,
+    "TgtHeight": 71.0,
+    "Distance_ref": 43.8854345653
+}, {
+    "OwnSpeed": 59.0,
+    "StrDeg": 0.8,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 456.0,
+    "TgtYPos_LeftUp": 93.0,
+    "TgtWidth": 79.0,
+    "TgtHeight": 71.0,
+    "Distance_ref": 44.3195828134
+}, {
+    "OwnSpeed": 59.0,
+    "StrDeg": 0.8,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 457.0,
+    "TgtYPos_LeftUp": 95.0,
+    "TgtWidth": 76.0,
+    "TgtHeight": 67.0,
+    "Distance_ref": 44.3195828134
+}, {
+    "OwnSpeed": 59.2,
+    "StrDeg": 0.9,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 455.0,
+    "TgtYPos_LeftUp": 95.0,
+    "TgtWidth": 78.0,
+    "TgtHeight": 66.0,
+    "Distance_ref": 45.2141690225
+}, {
+    "OwnSpeed": 59.3,
+    "StrDeg": 0.9,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 455.0,
+    "TgtYPos_LeftUp": 98.0,
+    "TgtWidth": 78.0,
+    "TgtHeight": 66.0,
+    "Distance_ref": 45.2141690225
+}, {
+    "OwnSpeed": 59.4,
+    "StrDeg": 0.9,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 455.0,
+    "TgtYPos_LeftUp": 102.0,
+    "TgtWidth": 76.0,
+    "TgtHeight": 66.0,
+    "Distance_ref": 45.2141690225
+}, {
+    "OwnSpeed": 59.6,
+    "StrDeg": 0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 454.0,
+    "TgtYPos_LeftUp": 98.0,
+    "TgtWidth": 80.0,
+    "TgtHeight": 69.0,
+    "Distance_ref": 45.6751430488
+}, {
+    "OwnSpeed": 59.7,
+    "StrDeg": 0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 455.0,
+    "TgtYPos_LeftUp": 96.0,
+    "TgtWidth": 76.0,
+    "TgtHeight": 65.0,
+    "Distance_ref": 45.2141690225
+}, {
+    "OwnSpeed": 59.8,
+    "StrDeg": 0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 456.0,
+    "TgtYPos_LeftUp": 94.0,
+    "TgtWidth": 77.0,
+    "TgtHeight": 64.0,
+    "Distance_ref": 45.2141690225
+}, {
+    "OwnSpeed": 60.1,
+    "StrDeg": 0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 456.0,
+    "TgtYPos_LeftUp": 96.0,
+    "TgtWidth": 76.0,
+    "TgtHeight": 64.0,
+    "Distance_ref": 45.6751430488
+}, {
+    "OwnSpeed": 60.3,
+    "StrDeg": 0.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 456.0,
+    "TgtYPos_LeftUp": 98.0,
+    "TgtWidth": 76.0,
+    "TgtHeight": 65.0,
+    "Distance_ref": 46.6258767955
+}, {
+    "OwnSpeed": 60.3,
+    "StrDeg": 0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 455.0,
+    "TgtYPos_LeftUp": 97.0,
+    "TgtWidth": 76.0,
+    "TgtHeight": 64.0,
+    "Distance_ref": 46.1456134721
+}, {
+    "OwnSpeed": 60.3,
+    "StrDeg": 0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 454.0,
+    "TgtYPos_LeftUp": 96.0,
+    "TgtWidth": 80.0,
+    "TgtHeight": 63.0,
+    "Distance_ref": 46.1456134721
+}, {
+    "OwnSpeed": 60.3,
+    "StrDeg": 0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 454.0,
+    "TgtYPos_LeftUp": 97.0,
+    "TgtWidth": 80.0,
+    "TgtHeight": 62.0,
+    "Distance_ref": 46.6258767955
+}, {
+    "OwnSpeed": 60.3,
+    "StrDeg": 0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 452.0,
+    "TgtYPos_LeftUp": 93.0,
+    "TgtWidth": 81.0,
+    "TgtHeight": 67.0,
+    "Distance_ref": 47.1162419951
+}, {
+    "OwnSpeed": 60.2,
+    "StrDeg": 0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 452.0,
+    "TgtYPos_LeftUp": 92.0,
+    "TgtWidth": 82.0,
+    "TgtHeight": 66.0,
+    "Distance_ref": 47.6170311835
+}, {
+    "OwnSpeed": 60.1,
+    "StrDeg": -0.4,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 455.0,
+    "TgtYPos_LeftUp": 93.0,
+    "TgtWidth": 74.0,
+    "TgtHeight": 62.0,
+    "Distance_ref": 47.1162419951
+}, {
+    "OwnSpeed": 60.1,
+    "StrDeg": -1.7,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 455.0,
+    "TgtYPos_LeftUp": 93.0,
+    "TgtWidth": 79.0,
+    "TgtHeight": 62.0,
+    "Distance_ref": 47.6170311835
+}, {
+    "OwnSpeed": 60.0,
+    "StrDeg": -1.7,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 457.0,
+    "TgtYPos_LeftUp": 95.0,
+    "TgtWidth": 75.0,
+    "TgtHeight": 62.0,
+    "Distance_ref": 47.6170311835
+}, {
+    "OwnSpeed": 59.9,
+    "StrDeg": -1.7,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 459.0,
+    "TgtYPos_LeftUp": 97.0,
+    "TgtWidth": 74.0,
+    "TgtHeight": 63.0,
+    "Distance_ref": 48.1285803152
+}, {
+    "OwnSpeed": 59.8,
+    "StrDeg": -1.7,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 461.0,
+    "TgtYPos_LeftUp": 98.0,
+    "TgtWidth": 73.0,
+    "TgtHeight": 63.0,
+    "Distance_ref": 47.6170311835
+}, {
+    "OwnSpeed": 59.7,
+    "StrDeg": -1.7,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 462.0,
+    "TgtYPos_LeftUp": 93.0,
+    "TgtWidth": 75.0,
+    "TgtHeight": 63.0,
+    "Distance_ref": 48.6512399377
+}, {
+    "OwnSpeed": 59.5,
+    "StrDeg": -1.7,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 463.0,
+    "TgtYPos_LeftUp": 87.0,
+    "TgtWidth": 68.0,
+    "TgtHeight": 64.0,
+    "Distance_ref": 48.6512399377
+}, {
+    "OwnSpeed": 59.4,
+    "StrDeg": -1.7,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 462.0,
+    "TgtYPos_LeftUp": 85.0,
+    "TgtWidth": 73.0,
+    "TgtHeight": 81.0,
+    "Distance_ref": 49.1853759932
+}, {
+    "OwnSpeed": 59.4,
+    "StrDeg": -1.7,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 470.0,
+    "TgtYPos_LeftUp": 95.0,
+    "TgtWidth": 66.0,
+    "TgtHeight": 60.0,
+    "Distance_ref": 48.6512399377
+}, {
+    "OwnSpeed": 59.3,
+    "StrDeg": -1.7,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 467.0,
+    "TgtYPos_LeftUp": 96.0,
+    "TgtWidth": 71.0,
+    "TgtHeight": 61.0,
+    "Distance_ref": 49.1853759932
+}, {
+    "OwnSpeed": 59.1,
+    "StrDeg": -1.7,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 472.0,
+    "TgtYPos_LeftUp": 96.0,
+    "TgtWidth": 65.0,
+    "TgtHeight": 61.0,
+    "Distance_ref": 49.7313706729
+}, {
+    "OwnSpeed": 59.0,
+    "StrDeg": -1.7,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 458.0,
+    "TgtYPos_LeftUp": 94.0,
+    "TgtWidth": 82.0,
+    "TgtHeight": 61.0,
+    "Distance_ref": 52.0422010208
+}, {
+    "OwnSpeed": 58.8,
+    "StrDeg": -1.4,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 459.0,
+    "TgtYPos_LeftUp": 95.0,
+    "TgtWidth": 81.0,
+    "TgtHeight": 59.0,
+    "Distance_ref": 52.0422010208
+}, {
+    "OwnSpeed": 58.7,
+    "StrDeg": -0.9,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 469.0,
+    "TgtYPos_LeftUp": 94.0,
+    "TgtWidth": 80.0,
+    "TgtHeight": 59.0,
+    "Distance_ref": 51.4445916944
+}, {
+    "OwnSpeed": 58.6,
+    "StrDeg": 0.0,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 460.0,
+    "TgtYPos_LeftUp": 98.0,
+    "TgtWidth": 82.0,
+    "TgtHeight": 58.0,
+    "Distance_ref": 51.4445916944
+}, {
+    "OwnSpeed": 58.5,
+    "StrDeg": 1.3,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 475.0,
+    "TgtYPos_LeftUp": 96.0,
+    "TgtWidth": 74.0,
+    "TgtHeight": 60.0,
+    "Distance_ref": 50.2896233289
+}, {
+    "OwnSpeed": 58.3,
+    "StrDeg": 1.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 456.0,
+    "TgtYPos_LeftUp": 98.0,
+    "TgtWidth": 89.0,
+    "TgtHeight": 56.0,
+    "Distance_ref": 52.0422010208
+}, {
+    "OwnSpeed": 58.1,
+    "StrDeg": 1.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 483.0,
+    "TgtYPos_LeftUp": 97.0,
+    "TgtWidth": 62.0,
+    "TgtHeight": 57.0,
+    "Distance_ref": 50.2896233289
+}, {
+    "OwnSpeed": 58.1,
+    "StrDeg": 1.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 456.0,
+    "TgtYPos_LeftUp": 102.0,
+    "TgtWidth": 101.0,
+    "TgtHeight": 57.0,
+    "Distance_ref": 52.6538578635
+}, {
+    "OwnSpeed": 57.9,
+    "StrDeg": 1.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 452.0,
+    "TgtYPos_LeftUp": 100.0,
+    "TgtWidth": 91.0,
+    "TgtHeight": 56.0,
+    "Distance_ref": 53.2800634185
+}, {
+    "OwnSpeed": 57.7,
+    "StrDeg": 1.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 483.0,
+    "TgtYPos_LeftUp": 94.0,
+    "TgtWidth": 71.0,
+    "TgtHeight": 55.0,
+    "Distance_ref": -106.8803867238
+}, {
+    "OwnSpeed": 57.5,
+    "StrDeg": 1.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 446.0,
+    "TgtYPos_LeftUp": 91.0,
+    "TgtWidth": 92.0,
+    "TgtHeight": 55.0,
+    "Distance_ref": 54.5782475665
+}, {
+    "OwnSpeed": 57.5,
+    "StrDeg": 1.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 482.0,
+    "TgtYPos_LeftUp": 96.0,
+    "TgtWidth": 67.0,
+    "TgtHeight": 55.0,
+    "Distance_ref": 52.0422010208
+}, {
+    "OwnSpeed": 57.4,
+    "StrDeg": 1.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 446.0,
+    "TgtYPos_LeftUp": 99.0,
+    "TgtWidth": 92.0,
+    "TgtHeight": 52.0,
+    "Distance_ref": 55.2513551875
+}, {
+    "OwnSpeed": 57.2,
+    "StrDeg": 1.5,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 456.0,
+    "TgtYPos_LeftUp": 96.0,
+    "TgtWidth": 96.0,
+    "TgtHeight": 54.0,
+    "Distance_ref": 55.2513551875
+}, {
+    "OwnSpeed": 57.1,
+    "StrDeg": 0.9,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 452.0,
+    "TgtYPos_LeftUp": 95.0,
+    "TgtWidth": 99.0,
+    "TgtHeight": 53.0,
+    "Distance_ref": 55.2513551875
+}, {
+    "OwnSpeed": 57.0,
+    "StrDeg": 0.9,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 482.0,
+    "TgtYPos_LeftUp": 95.0,
+    "TgtWidth": 68.0,
+    "TgtHeight": 54.0,
+    "Distance_ref": 53.2800634185
+}, {
+    "OwnSpeed": 57.0,
+    "StrDeg": 0.8,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 444.0,
+    "TgtYPos_LeftUp": 90.0,
+    "TgtWidth": 106.0,
+    "TgtHeight": 77.0,
+    "Distance_ref": -106.8803867238
+}, {
+    "OwnSpeed": 57.0,
+    "StrDeg": 0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 481.0,
+    "TgtYPos_LeftUp": 97.0,
+    "TgtWidth": 68.0,
+    "TgtHeight": 52.0,
+    "Distance_ref": 53.9213430112
+}, {
+    "OwnSpeed": 56.9,
+    "StrDeg": 0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 444.0,
+    "TgtYPos_LeftUp": 97.0,
+    "TgtWidth": 108.0,
+    "TgtHeight": 53.0,
+    "Distance_ref": 58.1184283366
+}, {
+    "OwnSpeed": 56.9,
+    "StrDeg": 0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 481.0,
+    "TgtYPos_LeftUp": 99.0,
+    "TgtWidth": 55.0,
+    "TgtHeight": 50.0,
+    "Distance_ref": 54.5782475665
+}, {
+    "OwnSpeed": 57.0,
+    "StrDeg": 0.6,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 464.0,
+    "TgtYPos_LeftUp": 97.0,
+    "TgtWidth": 89.0,
+    "TgtHeight": 52.0,
+    "Distance_ref": 56.6486382375
+}, {
+    "OwnSpeed": 57.0,
+    "StrDeg": 0.8,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 477.0,
+    "TgtYPos_LeftUp": 104.0,
+    "TgtWidth": 60.0,
+    "TgtHeight": 49.0,
+    "Distance_ref": 55.2513551875
+}, {
+    "OwnSpeed": 57.1,
+    "StrDeg": 0.9,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 453.0,
+    "TgtYPos_LeftUp": 105.0,
+    "TgtWidth": 101.0,
+    "TgtHeight": 51.0,
+    "Distance_ref": 58.8823003801
+}, {
+    "OwnSpeed": 57.1,
+    "StrDeg": 1.2,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 476.0,
+    "TgtYPos_LeftUp": 102.0,
+    "TgtWidth": 75.0,
+    "TgtHeight": 51.0,
+    "Distance_ref": 56.6486382375
+}, {
+    "OwnSpeed": 57.1,
+    "StrDeg": 1.3,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 470.0,
+    "TgtYPos_LeftUp": 98.0,
+    "TgtWidth": 78.0,
+    "TgtHeight": 53.0,
+    "Distance_ref": 57.3741216893
+}, {
+    "OwnSpeed": 57.2,
+    "StrDeg": 1.4,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 458.0,
+    "TgtYPos_LeftUp": 103.0,
+    "TgtWidth": 94.0,
+    "TgtHeight": 50.0,
+    "Distance_ref": 58.8823003801
+}, {
+    "OwnSpeed": 57.2,
+    "StrDeg": 1.4,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 468.0,
+    "TgtYPos_LeftUp": 103.0,
+    "TgtWidth": 81.0,
+    "TgtHeight": 50.0,
+    "Distance_ref": 58.8823003801
+}, {
+    "OwnSpeed": 57.2,
+    "StrDeg": 1.4,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 467.0,
+    "TgtYPos_LeftUp": 98.0,
+    "TgtWidth": 83.0,
+    "TgtHeight": 54.0,
+    "Distance_ref": 58.8823003801
+}, {
+    "OwnSpeed": 57.3,
+    "StrDeg": 1.4,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 463.0,
+    "TgtYPos_LeftUp": 98.0,
+    "TgtWidth": 87.0,
+    "TgtHeight": 51.0,
+    "Distance_ref": 58.8823003801
+}, {
+    "OwnSpeed": 57.3,
+    "StrDeg": 1.4,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 460.0,
+    "TgtYPos_LeftUp": 95.0,
+    "TgtWidth": 90.0,
+    "TgtHeight": 53.0,
+    "Distance_ref": 59.6665195603
+}, {
+    "OwnSpeed": 57.3,
+    "StrDeg": 1.4,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 458.0,
+    "TgtYPos_LeftUp": 96.0,
+    "TgtWidth": 90.0,
+    "TgtHeight": 53.0,
+    "Distance_ref": 60.471909826
+}, {
+    "OwnSpeed": 57.4,
+    "StrDeg": 1.4,
+    "inf_DP": 5.739502,
+    "TgtXPos_LeftUp": 480.0,
+    "TgtYPos_LeftUp": 99.0,
+    "TgtWidth": 66.0,
+    "TgtHeight": 51.0,
+    "Distance_ref": 58.8823003801
+}]

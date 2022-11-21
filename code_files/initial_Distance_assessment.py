@@ -64,8 +64,8 @@ for indiData in data_required:
             if disparity > 0: 
                 distance =  560 / (disparity - indiData['inf_DP'])
                 
-                # if distance > 0 and distance < 150 :# no distance if disparity = 0
-                local_distance.append(distance)
+                if distance > 0 and distance < 150 :# no distance if disparity = 0
+                    local_distance.append(distance)
                     # inf_DP: Infinite disparity
                 # if(distance <  indiData['Distance_ref'] +5 and distance > indiData['Distance_ref'] -5 ):
                 #     print("Cal Distance "+str(distance)+" actual distance "+str(indiData['Distance_ref'])+" for pixel "+ str(i) + " and "+str(j))
@@ -94,21 +94,21 @@ for indiData in data_required:
     print("Calculated with frequent value from histogram: "+str(modei)+" Calculated with pandas from histogram: "+str(mode_pd)+" Actual Value: "+str(indiData['Distance_ref'])+ " General Mean: "+str(mean(local_distance))+ " General Median: "+str(median(local_distance))+ " General Mode: "+str(mode(local_distance)))
     
     # plt.show()    
-    global_distance.append(mode_pd)
-    if(pre_distance==0):
-        speed = (mode_pd-int(mode_pd))/0.1
-        estimated_velocity.append(indiData['OwnSpeed']+speed)
-        actual_velocity.append(indiData['TgtSpeed_ref'])
-        pre_distance=mode_pd
-    else:
-        speed =(mode_pd-pre_distance)/0.1
-        estimated_velocity.append(indiData['OwnSpeed']+speed)
-        actual_velocity.append(indiData['TgtSpeed_ref'])
-        pre_distance=mode(local_distance)
+    global_distance.append(modei)
+    # if(pre_distance==0):
+        # speed = (mode_pd-int(mode_pd))/0.1
+    estimated_velocity.append(modei)
+    actual_velocity.append(indiData['Distance_ref'])
+    # pre_distance=mode_pd
+    # else:
+    #     speed =(mode_pd-pre_distance)/0.1
+    #     estimated_velocity.append(indiData['OwnSpeed']+speed)
+    #     actual_velocity.append(indiData['TgtSpeed_ref'])
+    #     pre_distance=mode(local_distance)
     
     
-    actual_distance.append(indiData['Distance_ref'])            
-    ratio_change.append(indiData['Distance_ref']/(sum(local_distance)/len(local_distance)))
+    # actual_distance.append(indiData['Distance_ref'])            
+    # ratio_change.append(indiData['Distance_ref']/(sum(local_distance)/len(local_distance)))
 print(estimated_velocity)
 print(actual_velocity)
 print(sum(1 for x,y in zip(estimated_velocity, actual_velocity) if abs(x-y)<1)/float(len(estimated_velocity)))
